@@ -1,2 +1,4 @@
 This is a demo file b.txt
+
 File edited from branch b1
+
